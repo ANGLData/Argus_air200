@@ -1,0 +1,24 @@
+{
+    "H1": {
+        "error": 0.013202092928793692,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average_SEM",
+        "value": -0.12216172637216774
+    },
+    "H2": {
+        "error": 0.009213658014505608,
+        "error_type": null,
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "average_SEM",
+        "value": -0.07022690566888277
+    }
+}
