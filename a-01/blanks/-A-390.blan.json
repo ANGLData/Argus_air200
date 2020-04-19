@@ -1,0 +1,38 @@
+{
+    "Ar40": {
+        "error": 0.04921149274652136,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-279"
+            }
+        ],
+        "value": 2.508620885386307
+    },
+    "Ar40H2": {
+        "error": 0.07524665441112728,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-279"
+            }
+        ],
+        "value": 2.370649006671182
+    },
+    "PM41": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "bu-AC-A-279"
+            }
+        ],
+        "value": 0.07004102636943339
+    }
+}
