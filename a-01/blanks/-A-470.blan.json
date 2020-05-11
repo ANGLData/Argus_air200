@@ -1,123 +1,123 @@
 {
     "Ar36": {
-        "error": 0.0005113604785669696,
+        "error": 0.0003141225993643202,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.03276922958638871
+        "value": 0.03128142485578686
     },
     "Ar36L2": {
-        "error": 0.00903801781512449,
+        "error": 0.007003938421974402,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.033985617526107605
+        "value": 0.030747136988983074
     },
     "Ar37": {
-        "error": 0.008455985357657254,
+        "error": 0.007748617879079122,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.009782623351109392
+        "value": 0.0040469252264866695
     },
     "Ar37L1": {
-        "error": 0.020870394854433406,
+        "error": 0.015458761547787322,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.09627793895689336
+        "value": 0.08744365132467394
     },
     "Ar38": {
-        "error": 0.022267394445509802,
+        "error": 0.01498661590242242,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": -0.012247759825549384
+        "value": -0.024357019392456422
     },
     "Ar38AX": {
-        "error": 0.01016063022700323,
+        "error": 0.006830145600373551,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.030681588781150723
+        "value": 0.036872318443916974
     },
     "Ar39": {
-        "error": 0.009218980204898641,
+        "error": 0.007674110808156809,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.02424680649727387
+        "value": 0.01095941731988611
     },
     "Ar39H1": {
-        "error": 0.02036440139376571,
+        "error": 0.016146922271517008,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.07607362738485499
+        "value": 0.07921515191026364
     },
     "Ar40": {
-        "error": 0.022434152861510615,
+        "error": 0.01692143881057198,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 5.278272940151746
+        "value": 5.25227897749188
     },
     "Ar40H2": {
-        "error": 0.021801790859762284,
+        "error": 0.01678944033441551,
         "error_type": "",
         "fit": "previous",
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 5.267746412567928
+        "value": 5.239754602045873
     },
     "PM41": {
         "error": 0.0,
@@ -126,9 +126,9 @@
         "references": [
             {
                 "exclude": false,
-                "record_id": "ba-01-A-1043"
+                "record_id": "ba-01-A-1044"
             }
         ],
-        "value": 0.09913852371767591
+        "value": 0.09171057023766814
     }
 }
