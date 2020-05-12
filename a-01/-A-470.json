@@ -46,7 +46,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "Starter_2shotairs",
+    "experiment_queue_name": "CurrentExperiment",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_ArRef_2split_medium.py",
     "grainsize": "",
@@ -134,14 +134,14 @@
     "rlocation": "",
     "sample": "air",
     "source": {
-        "emission": 735.499,
-        "trap": 198.818
+        "emission": 735.377,
+        "trap": 199.154
     },
     "spec_sha": "5d935f04d7db136aeaf8e2b7c78a399e0acb9575",
-    "timestamp": "2020-05-11T16:26:26.680544",
+    "timestamp": "2020-05-12T11:19:16.764319",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "30cffa17-38df-4fed-832d-e40453270727",
+    "uuid": "606f2dec-8026-4932-b3fa-2812f10e9de0",
     "whiff_result": null
 }
